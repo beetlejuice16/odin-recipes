@@ -1,0 +1,21 @@
+body {
+  background-image: url("../img/background.jpg");
+}
+
+h1 {
+  font-size: 40px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: rgba(210, 105, 30, 0.562);
+  text-align: center;
+  position: relative;
+}
+
+a {
+  color: rgb(13, 185, 113);
+}
+.recipe-list {
+  color: rgb(13, 185, 113);
+  font-size: 20px;
+  background-color: #b257226c;
+  background-clip: border-box;
+}
